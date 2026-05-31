@@ -1,0 +1,1 @@
+FreeFireVersion = "OB53"
